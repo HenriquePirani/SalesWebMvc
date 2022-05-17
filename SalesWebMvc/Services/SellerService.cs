@@ -1,4 +1,5 @@
 ﻿using SalesWebMvc.Models;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 
@@ -19,8 +20,14 @@ namespace SalesWebMvc.Services
 
         public void Inser(Seller obj)
         {
+            obj.Department = _context.Department.First();
             _context.Add(obj);
             _context.SaveChanges();
+        }
+
+        internal void Insert(Seller seller)
+        {
+            throw new NotImplementedException();
         }
     }
 }
