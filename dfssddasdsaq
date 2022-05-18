@@ -1,0 +1,119 @@
+[33mcommit 8050db59869081a3bac3315b6d0279c81d4f9fc5[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: HenriquePirani <henriquepirani@gmail.com>
+Date:   Wed May 18 13:36:39 2022 +0100
+
+    error page
+
+[33mcommit 366529448171a654b8fb065ca017e8186fa168b5[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: HenriquePirani <henriquepirani@gmail.com>
+Date:   Wed May 18 13:22:30 2022 +0100
+
+    Returning custom error page
+
+[33mcommit e14c38b0c206c3c5bbda8e849f8c5135e79e4cb6[m
+Author: HenriquePirani <henriquepirani@gmail.com>
+Date:   Wed May 18 13:11:58 2022 +0100
+
+    Update seller and custom service exception
+
+[33mcommit a4ebdb5445006dbac23a5ec4089e6ff163e0d433[m
+Author: HenriquePirani <henriquepirani@gmail.com>
+Date:   Wed May 18 12:53:48 2022 +0100
+
+    Seller details and eager loading
+
+[33mcommit 44ff62cd70e32856ecd357f82ee13f417cf8cfe3[m
+Author: HenriquePirani <henriquepirani@gmail.com>
+Date:   Tue May 17 12:08:17 2022 +0100
+
+    Delete seller
+
+[33mcommit c95d0223745cb5106ec6d36b6b05d9375b2e0e5a[m
+Author: HenriquePirani <henriquepirani@gmail.com>
+Date:   Tue May 17 11:52:51 2022 +0100
+
+    SellerFormViewModel and Department select component
+
+[33mcommit 26dc05aae0d0e1783a6cc05d99d4a28115a188ae[m
+Author: HenriquePirani <henriquepirani@gmail.com>
+Date:   Tue May 17 11:41:04 2022 +0100
+
+    Foreign key not null (referential integrity)
+
+[33mcommit 87cec3df660a0f1f3a877a7cda6ceb0680235032[m
+Author: HenriquePirani <henriquepirani@gmail.com>
+Date:   Tue May 17 11:34:40 2022 +0100
+
+    Simple Create form
+
+[33mcommit d9d8de36f6f364e1750c342236f880831d937cc4[m
+Author: HenriquePirani <henriquepirani@gmail.com>
+Date:   Tue May 17 11:17:21 2022 +0100
+
+    SellerService and basic FindAll
+
+[33mcommit 19ff06fb047bb532bec66b40e498838eda5120fb[m
+Author: HenriquePirani <henriquepirani@gmail.com>
+Date:   Mon May 16 13:45:28 2022 +0100
+
+    SellersController
+
+[33mcommit 3c6dff8a0b3022dd9bc2ccc7cac88c61661a81ad[m
+Author: HenriquePirani <henriquepirani@gmail.com>
+Date:   Mon May 16 13:37:16 2022 +0100
+
+    Seeding Service
+
+[33mcommit d8b6e191d269818e16abb9ec1c53b655c5853ff7[m
+Author: HenriquePirani <henriquepirani@gmail.com>
+Date:   Mon May 16 13:09:12 2022 +0100
+
+    Other entities and second migration
+
+[33mcommit 79e9e20e45f9ecb6d6164a9fb50c0cfca55f4d02[m
+Author: HenriquePirani <henriquepirani@gmail.com>
+Date:   Fri May 13 16:20:18 2022 +0100
+
+    Changing theme
+
+[33mcommit fa6758eb4947afccaf07b674c1e820f9516debe6[m
+Author: HenriquePirani <henriquepirani@gmail.com>
+Date:   Fri May 13 16:12:08 2022 +0100
+
+    MySQL adaptation and first migration
+
+[33mcommit 5a3e1da91fdf10486a243aae2e015d818c567f14[m
+Author: HenriquePirani <henriquepirani@gmail.com>
+Date:   Thu May 12 15:29:46 2022 +0100
+
+    CRUD Scaffolding
+
+[33mcommit 48a841aa5bd8f9550cfb66ab6054a6b93d862a42[m
+Author: HenriquePirani <henriquepirani@gmail.com>
+Date:   Thu May 12 15:26:02 2022 +0100
+
+    Deleting Department view and controller
+
+[33mcommit 7cf8ad99553208bbd234856a66058c1709cc1061[m
+Author: HenriquePirani <henriquepirani@gmail.com>
+Date:   Thu May 12 15:24:26 2022 +0100
+
+    First Model-Controller-View - Department
+
+[33mcommit f07db1d79be6452661d6f697ce7d075919d1ee8f[m
+Author: HenriquePirani <henriquepirani@gmail.com>
+Date:   Thu May 12 14:53:51 2022 +0100
+
+    First controller and Razor pages tests
+
+[33mcommit e2327b355e2b2c09996a694d85b759430b32d2da[m
+Author: HenriquePirani <henriquepirani@gmail.com>
+Date:   Thu May 12 13:26:36 2022 +0100
+
+    Project created
+
+[33mcommit 01ca2e83b843ea0d133624f4fae1f258b472aae5[m
+Author: Henrique Pirani <henriquepirani@gmail.com>
+Date:   Thu May 12 13:11:32 2022 +0100
+
+    Initial commit
